@@ -1,0 +1,6 @@
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\obj\Debug\csharpLR3.csprojAssemblyReference.cache
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\bin\Debug\csharpLR3.exe.config
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\bin\Debug\csharpLR3.exe
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\bin\Debug\csharpLR3.pdb
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\obj\Debug\csharpLR3.exe
+C:\Users\Rest\source\repos\csharpLR3\csharpLR3\obj\Debug\csharpLR3.pdb
